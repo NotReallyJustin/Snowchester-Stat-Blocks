@@ -1,3 +1,5 @@
+<img src="https://w0.peakpx.com/wallpaper/315/786/HD-wallpaper-a-shattered-galaxy-nebula-universe-space-cosmos-clouds-galaxies-sky.jpg" />
+
 # A Note on Mark Iron
 Mark is (or at least, is very likely to be) the BBEG of a campaign that messes with Space and Time. He's not intended to be _good_ in combat and should be played like a support character.
 
@@ -14,7 +16,7 @@ If you're curious, see the Stat Blocks for:
 Some stat blocks might not be out yet since I'm still working on them :)
 
 ## Using Mark in your Campaigns
-Mark's the most technologically advanced person in the campaign, just by nature of how IronVale is and because of the Chronolens. For _most_ campaigns (read: all non-futuristic/sci-fi campaigns, you will need to significantly reflavor him).
+Mark's the most technologically advanced person in the campaign, just by nature of how IronVale is and because of the Chronolens. For _most_ campaigns (read: all non-futuristic/sci-fi campaigns), you will need to significantly reflavor him.
 
 ## Sliver
 Ignore that silly little stat block. I made that during the summer and needed somewhere to put it. Maybe the party can deal with it eventually but I don't think it's ever showing up in the campaign.
