@@ -15,7 +15,7 @@ Dropping this here so the folders make sense. (Yes, the names are intentionally 
 
 <img width="778" height="587" alt="image" src="https://github.com/user-attachments/assets/386a1155-2965-4484-bb49-6ab8d2a17415" />
 
-Someone's probably going to ask me for a list of dumb references, so they're in <a href="">this file</a>
+Someone's probably going to ask me for a list of dumb references, so they're in <a href="https://github.com/NotReallyJustin/Snowchester-Stat-Blocks/blob/main/references.md">this file</a>
 
 ## Additional/External Resources:
 * <a href="https://docs.google.com/document/d/1_FLja6Q1eQEt5CWPQx_YL1ShTEutQmUjixWtTUmHIkA/edit?usp=sharing">Official Snowchester Doc</a>
