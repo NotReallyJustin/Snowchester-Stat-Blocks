@@ -1,5 +1,6 @@
 # Non-Exhaustive List of Dumb References
-(On this Github repo, because someone's going to ask me about it)
+On this Github repo, because someone's going to ask me about it <br>
+Also because if I don't, someone's going to speculate and think that I made a reference to Freddy Fazbear Purple Guy William Afton or smth
 
 * `Boggy Fottom` - Foggy Bottom in DC, but I changed up the letters
 * `Ashburn Pass` - Actual place in DC
