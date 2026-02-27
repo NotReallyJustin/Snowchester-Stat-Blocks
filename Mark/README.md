@@ -11,9 +11,7 @@ If you're curious, see the Stat Blocks for:
 * Benjamin Korolev (Snowchester)
 * Dr. Nicholas Castino (Fenwick)
 * Evan Ryder (Badlands)
-* Mitchell (Probably Takeshima? Haven't found a good place for him yet)
-
-Some stat blocks might not be out yet since I'm still working on them :)
+* Mitchell Auberano (Takeshiam)
 
 ## Using Mark in your Campaigns
 Mark's the most technologically advanced person in the campaign, just by nature of how IronVale is and because of the Chronolens. For _most_ campaigns (read: all non-futuristic/sci-fi campaigns), you will need to significantly reflavor him.
