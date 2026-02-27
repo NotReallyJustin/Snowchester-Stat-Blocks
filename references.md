@@ -18,3 +18,4 @@ Also because if I don't, someone's going to speculate and think that I made a re
 * `Royal Guards` - Clash Royale reference
 * `The FlatIrons` - Gang in IronVale; This is a famous building in NYC, and also Iron was in the name
 * `Bee Grenade` - I got stung by a bee IRL and got really mad
+* `Arthur` - Chestnut `Morgan` horse that Evan infamously uses during his fight. Reference to `Arthur Morgan` from RDR2 (I loved that game)
