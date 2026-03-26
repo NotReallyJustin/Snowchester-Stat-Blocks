@@ -20,3 +20,4 @@ Also because if I don't, someone's going to speculate and think that I made a re
 * `Bee Grenade` - I got stung by a bee IRL and got really mad
 * `Arthur` - Chestnut `Morgan` horse that Evan infamously uses during his fight. Reference to `Arthur Morgan` from RDR2 (I loved that game)
 * `Zach Darnold` - Sam Darnold + Zach Charbonnet, also for Jets fans, Sam Darnold + Zach Wilson. Seahawks QB + GEQBUS. Inspiration from this character comes from this <a href="https://www.youtube.com/watch?v=ofFZj2cffwU">Gridiron Heights Episode</a>
+* `Madd Hatter` - Bartender in Badlands; A pretty famous bar in Hoboken my friends go to a lot in college
