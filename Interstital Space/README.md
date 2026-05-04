@@ -14,6 +14,10 @@ If you're curious, see the Stat Blocks for:
 * Evan Ryder (Badlands)
 * Mitchell Auberano (Takeshiam)
 
+Thinking of having 2 phases:
+1. Evan, Mitchell, Castino
+2. Scarsdale, Korolev, Phil
+
 ## Using Mark in your Campaigns
 Mark's the most technologically advanced person in the campaign, just by nature of how IronVale is and because of the Chronolens. For _most_ campaigns (read: all non-futuristic/sci-fi campaigns), you will need to significantly reflavor him.
 
