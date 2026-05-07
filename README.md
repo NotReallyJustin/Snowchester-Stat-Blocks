@@ -3,6 +3,7 @@ You've heard of "Infrastructure as Code" and "Detection as Code." Now get ready 
 
 Okay on a more serious note, Github is where I keep all my stat blocks. I also promised by party that after the campaign is over, I'll make these stat blocks public so they can take a look at it and have fun with it.
 * If you're part of the `Snowchester` campaign, hi!
+* If you're Parker, hi! Feel free to steal these for Snowchester Part 2. You already know how to reach out to me (plus my DMs are open)
 * If you're not, hopefully you can find some of these stat blocks useful in your own campaigns. This is my first time DMing and building a proper world w/ custom stat blocks.
 
 ## Assumptions
