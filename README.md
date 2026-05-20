@@ -19,7 +19,5 @@ Dropping this here so the folders make sense. (Yes, the names are intentionally 
 Someone's probably going to ask me for a list of dumb references, so they're in <a href="https://github.com/NotReallyJustin/Snowchester-Stat-Blocks/blob/main/references.md">this file</a>
 
 ## Additional/External Resources:
-* <a href="https://docs.google.com/document/d/1_FLja6Q1eQEt5CWPQx_YL1ShTEutQmUjixWtTUmHIkA/edit?usp=sharing">Official Snowchester Doc</a>
-* <a href="https://docs.google.com/document/d/1W2IB5jP0Ptf3VFh6196_j0hh8iKW10o_Xu6TeIJO0-s/edit?usp=sharing">Justin's Monster Catalog</a>
 * <a href="https://tetra-cube.com/dnd/dnd-statblock.html">Stat Block Creator</a>
 * <a href="https://item-card-generator.web.app/cardgenerator">Magic Item Generator</a>
